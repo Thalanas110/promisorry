@@ -150,21 +150,50 @@ const poems = [
     More of the same quiet sadness,
     the kind I never meant to cause.`
 },
-    {
-        title: "Almost Evening",
-        author: "Anonymous",
-        snippet: "It is the hour when blue becomes a verb.\nThe rooftops are doing it. The mountains are doing it...",
-        body: `It is the hour when blue becomes a verb.
-    The rooftops are doing it. The mountains are doing it.
-    Even our shadows have stopped pretending
-    to be shaped like us.
+{
+    title: "An Apology",
+    author: "Anonymous",
+    snippet: "I’m sorry I built quiet exits,\ninstead of choosing to stay and exist...",
+    body: `I’m sorry I built silent exits to escape,
+    pretending logic made everything easier to escape,
+    I named them clauses to justify my escape,
+    but deep down, I just wanted to escape.
 
-    Soon someone will turn on a lamp
-    in a window we cannot see, and we will know
-    that the day is finally over,
-    and that we were lucky to be here when it ended.`
-    }
-];
+    I’m sorry I became distant, quiet, and cold,
+    as if nothing we had was worth trying to hold,
+    I stood there unaffected, distant, and cold,
+    while you carried emotions I chose not to hold.
+
+    I didn’t see how deeply it would hurt,
+    how simple words could quietly start to hurt,
+    I treated feelings like problems that convert,
+    when all you needed was something that wouldn’t hurt.
+
+    I turned something fragile into something controlled,
+    reduced what was real into something controlled,
+    as if connection could be measured and controlled,
+    instead of something alive, something uncontrolled.
+
+    You had every right to feel angry inside,
+    because I made it seem like I could easily slide,
+    like everything we had could just easily slide,
+    when you were someone I shouldn’t let slide.
+
+    And now I see the damage I tried to hide,
+    not just in words, but the way I tried to hide,
+    how I almost let something real quietly hide,
+    just because I was too afraid to stay, not hide.
+
+    So hear me now, I am choosing to stay,
+    not because I’m forced, but choosing to stay,
+    whatever happens, I will still choose to stay,
+    not planning an exit, just choosing to stay.
+
+    No matter what comes or tries to sway,
+    no matter the doubt that tries to sway,
+    I won’t walk away or quietly sway,
+    I’m here, and I am choosing to stay.`
+}];
 
 const list = document.getElementById('poems');
 const reader = document.getElementById('reader');
