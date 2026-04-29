@@ -220,6 +220,7 @@ function openPoem(p, i) {
     readerMeta.textContent = `Poem No. ${String(i + 1).padStart(2, '0')} — ${p.author}`;
     readerTitle.textContent = p.title;
     readerBody.textContent = p.body;
+    reader.scrollTop = 0;
     reader.hidden = false;
     document.body.style.overflow = 'hidden';
 }
