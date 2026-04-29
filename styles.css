@@ -5,7 +5,7 @@ html, body {
   font-family: 'Inter', system-ui, sans-serif;
   color: #e9f3ff;
   overflow-x: hidden;
-  background: #061224 url('/bg.jpg') center / cover no-repeat fixed;
+  background: #061224 url('attached_assets/peakpx\ \(1\).jpg') center / cover no-repeat fixed;
 }
 
 .bg { display: none; }
